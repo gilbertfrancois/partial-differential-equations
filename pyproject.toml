@@ -10,6 +10,7 @@ numpy = "^1.21.4"
 scipy = "^1.7.3"
 matplotlib = "^3.5.1"
 notebook = "^6.4.6"
+jupyter-contrib-nbextensions = "^0.5.1"
 
 [tool.poetry.dev-dependencies]
 
