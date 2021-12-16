@@ -13,35 +13,24 @@ This repository is a collection of Jupyter Notebooks, containing methods for sol
 and use a specific method to solve it using a most suitable numerical method. With time, more and more notebooks will be added.
 
 ## Table of contents
-### 1D
- [1D Heat equation, Finite Difference, Direct Method]("./1D Heat equation, Finite Difference, Direct Method.ipynb") 
 
- [1D Heat equation, Finite Difference, Euler method](./%2F1D%20Heat%20equation%2C%20Finite%20Difference%2C%20Euler%20method.ipynb) 
+### 1D PDE
 
- [1D Heat equation, Finite Difference, Neumann BC](./1D Heat equation, Finite Difference, Neumann BC.ipynb) 
+[1D Heat equation, Finite Difference, Direct Method](./1D%20Heat%20equation%2C%20Finite%20Difference%2C%20Direct%20Method.ipynb)
+[1D Heat equation, Finite Difference, Euler method](./1D%20Heat%20equation%2C%20Finite%20Difference%2C%20Euler%20method.ipynb)
+[1D Heat equation, Finite Difference, Neumann BC](./1D%20Heat%20equation%2C%20Finite%20Difference%2C%20Neumann%20BC.ipynb)
+[1D Heat equation, Finite Difference, SciPy method](./1D%20Heat%20equation%2C%20Finite%20Difference%2C%20SciPy%20method.ipynb)
+[1D Heat equation, Finite Difference, p1 MIT 2016](./1D%20Heat%20equation%2C%20Finite%20Difference%2C%20p1%20MIT%202016.ipynb)
 
- [1D Heat equation, Finite Difference, p1 MIT 2016](./1D Heat equation, Finite Difference, p1 MIT 2016.ipynb) 
+### 2D PDE
 
- [1D Heat equation, Finite Difference, SciPy method](./1D Heat equation, Finite Difference, SciPy method.ipynb) 
+[2D Poisson equation, Finite Difference](./2D%20Poisson%20equation%2C%20Finite%20Difference.ipynb)
 
-### 2D
- [2D Poisson equation, Finite Difference](./2D Poisson equation, Finite Difference.ipynb) 
+### 1D ODE
+
+[Solving ODE with SciPy](./Solving%20ODE%20with%20SciPy.ipynb)
 
 ### Miscellaneous
 
- [Solving ODE with SciPy](./Solving ODE with SciPy.ipynb) 
-
- [Taylor expansion](./Taylor expansion.ipynb) 
-
- [Truncation error analysis with Taylor expansions](./Truncation error analysis with Taylor expansions.ipynb) 
-
-## To do
-
-[ ] Add finite elements
-
-[ ] Add finite volumes
-
-[ ] Runge-Kutta (high order) time integrator
-
-[ ] Add convection-diffusion example
-
+[Taylor expansion](./Taylor%20expansion.ipynb)
+[Truncation error analysis with Taylor expansions](./Truncation%20error%20analysis%20with%20Taylor%20expansions.ipynb)
