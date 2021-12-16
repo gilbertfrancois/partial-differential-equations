@@ -14,7 +14,7 @@ and use a specific method to solve it using a most suitable numerical method. Wi
 
 ## Table of contents
 ### 1D
- [1D Heat equation, Finite Difference, Direct Method](./1D Heat equation, Finite Difference, Direct Method.ipynb) 
+ [1D Heat equation, Finite Difference, Direct Method]("./1D Heat equation, Finite Difference, Direct Method.ipynb") 
 
  [1D Heat equation, Finite Difference, Euler method](./1D Heat equation, Finite Difference, Euler method.ipynb) 
 
