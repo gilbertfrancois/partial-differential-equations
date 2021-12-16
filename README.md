@@ -10,21 +10,30 @@ This repository is a collection of Jupyter Notebooks, containing methods for sol
 
 <img src="https://render.githubusercontent.com/render/math?math=%5Cfrac%7B%5Cpartial%20u%7D%7B%5Cpartial%20t%7D%20%2B%20U%20%5Ccdot%20%5Cnabla%20u%20%3D%20%5Ckappa%20%5Cnabla%5E2%20u%20%2B%20f">
 
-and use a specific method to solve it using a most suitable numerical method.
+and use a specific method to solve it using a most suitable numerical method. With time, more and more notebooks will be added.
 
-The intention is to cover:
+## Table of contents
+### 1D
+ [1D Heat equation, Finite Difference, Direct Method.](1D Heat equation, Finite Difference, Direct Method.ipynb) 
 
-- Finite Difference
-- Finite Elements
-- Finite Volumes
+ [1D Heat equation, Finite Difference, Euler method](1D Heat equation, Finite Difference, Euler method.ipynb) 
 
-- Different time integrators, like forward Euler, Runge-Kutta, SciPy buildin methods, etc
-- 1D and 2D spacial domains
-- Boundary conditions, like Dirichlet, Neumann, Robin, etc
-- Solution and truncation error analysis
-- and more...
+ [1D Heat equation, Finite Difference, Neumann BC](1D Heat equation, Finite Difference, Neumann BC.ipynb) 
 
+ [1D Heat equation, Finite Difference, p1 MIT 2016](1D Heat equation, Finite Difference, p1 MIT 2016.ipynb) 
 
+ [1D Heat equation, Finite Difference, SciPy method](1D Heat equation, Finite Difference, SciPy method.ipynb) 
+
+### 2D
+ [2D Poisson equation, Finite Difference](2D Poisson equation, Finite Difference.ipynb) 
+
+### Miscellaneous
+
+ [Solving ODE with SciPy](Solving ODE with SciPy.ipynb) 
+
+ [Taylor expansion](Taylor expansion.ipynb) 
+
+ [Truncation error analysis with Taylor expansions](Truncation error analysis with Taylor expansions.ipynb) 
 
 ## To do
 
@@ -35,5 +44,4 @@ The intention is to cover:
 [ ] Runge-Kutta (high order) time integrator
 
 [ ] Add convection-diffusion example
-
 
