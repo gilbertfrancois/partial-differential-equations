@@ -14,26 +14,26 @@ and use a specific method to solve it using a most suitable numerical method. Wi
 
 ## Table of contents
 ### 1D
- [1D Heat equation, Finite Difference, Direct Method.](1D Heat equation, Finite Difference, Direct Method.ipynb) 
+ [1D Heat equation, Finite Difference, Direct Method](./1D Heat equation, Finite Difference, Direct Method.ipynb) 
 
- [1D Heat equation, Finite Difference, Euler method](1D Heat equation, Finite Difference, Euler method.ipynb) 
+ [1D Heat equation, Finite Difference, Euler method](./1D Heat equation, Finite Difference, Euler method.ipynb) 
 
- [1D Heat equation, Finite Difference, Neumann BC](1D Heat equation, Finite Difference, Neumann BC.ipynb) 
+ [1D Heat equation, Finite Difference, Neumann BC](./1D Heat equation, Finite Difference, Neumann BC.ipynb) 
 
- [1D Heat equation, Finite Difference, p1 MIT 2016](1D Heat equation, Finite Difference, p1 MIT 2016.ipynb) 
+ [1D Heat equation, Finite Difference, p1 MIT 2016](./1D Heat equation, Finite Difference, p1 MIT 2016.ipynb) 
 
- [1D Heat equation, Finite Difference, SciPy method](1D Heat equation, Finite Difference, SciPy method.ipynb) 
+ [1D Heat equation, Finite Difference, SciPy method](./1D Heat equation, Finite Difference, SciPy method.ipynb) 
 
 ### 2D
- [2D Poisson equation, Finite Difference](2D Poisson equation, Finite Difference.ipynb) 
+ [2D Poisson equation, Finite Difference](./2D Poisson equation, Finite Difference.ipynb) 
 
 ### Miscellaneous
 
- [Solving ODE with SciPy](Solving ODE with SciPy.ipynb) 
+ [Solving ODE with SciPy](./Solving ODE with SciPy.ipynb) 
 
- [Taylor expansion](Taylor expansion.ipynb) 
+ [Taylor expansion](./Taylor expansion.ipynb) 
 
- [Truncation error analysis with Taylor expansions](Truncation error analysis with Taylor expansions.ipynb) 
+ [Truncation error analysis with Taylor expansions](./Truncation error analysis with Taylor expansions.ipynb) 
 
 ## To do
 
