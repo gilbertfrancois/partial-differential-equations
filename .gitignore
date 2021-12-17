@@ -203,3 +203,4 @@ bin/glass.jar
 /bin/cas2wav
 __pycache__
 .ipynb_checkpoints
+.texpadtmp
