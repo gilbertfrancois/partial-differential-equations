@@ -1,0 +1,203 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Title: 2d_discretization.fig
+%%Creator: fig2dev Version 3.2.8b
+%%CreationDate: 2021-12-17 12:31:22
+%%BoundingBox: 0 0 380 366
+%%Magnification: 1.0000
+%%EndComments
+%%BeginProlog
+/$F2psDict 200 dict def
+$F2psDict begin
+$F2psDict /mtrx matrix put
+/col-1 {0 setgray} bind def
+/col0 {0.000 0.000 0.000 srgb} bind def
+/col7 {1.000 1.000 1.000 srgb} bind def
+
+end
+
+/cp {closepath} bind def
+/ef {eofill} bind def
+/gr {grestore} bind def
+/gs {gsave} bind def
+/sa {save} bind def
+/rs {restore} bind def
+/l {lineto} bind def
+/rl {rlineto} bind def
+/m {moveto} bind def
+/rm {rmoveto} bind def
+/n {newpath} bind def
+/s {stroke} bind def
+/sh {show} bind def
+/slc {setlinecap} bind def
+/slj {setlinejoin} bind def
+/slw {setlinewidth} bind def
+/srgb {setrgbcolor} bind def
+/rot {rotate} bind def
+/sc {scale} bind def
+/sd {setdash} bind def
+/ff {findfont} bind def
+/sf {setfont} bind def
+/scf {scalefont} bind def
+/sw {stringwidth} bind def
+/tr {translate} bind def
+/tnt {dup dup currentrgbcolor
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add srgb}
+  bind def
+/shd {dup dup currentrgbcolor 4 -2 roll mul 4 -2 roll mul
+  4 -2 roll mul srgb} bind def
+/xfig_image {image Data flushfile} def
+ /DrawEllipse {
+	/endangle exch def
+	/startangle exch def
+	/yrad exch def
+	/xrad exch def
+	/y exch def
+	/x exch def
+	/savematrix mtrx currentmatrix def
+	x y tr xrad yrad sc 0 0 1 startangle endangle arc
+	closepath
+	savematrix setmatrix
+	} def
+
+/$F2psBegin {$F2psDict begin /$F2psEnteredState save def} def
+/$F2psEnd {$F2psEnteredState restore end} def
+
+/pageheader {
+sa
+n 0 366 m 0 0 l 380 0 l 380 366 l cp clip
+-35.1 382.7 tr
+1 -1 sc
+$F2psBegin
+10 setmiterlimit
+0 slj 0 slc
+ 0.06000 0.06000 sc
+} bind def
+/pagefooter {
+$F2psEnd
+restore
+} bind def
+%%EndProlog
+pageheader
+%
+% Fig objects follow
+%
+% 
+% here starts figure with depth 50
+% Ellipse
+7.500 slw
+0 slc
+n 4800 4800 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 6000 4800 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 6000 6000 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 4800 6000 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 3600 6000 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 2400 6000 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 1200 4800 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 1200 6000 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 1200 3600 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 1200 2400 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 1200 1200 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 2400 1200 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 2400 2400 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 4800 2400 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 3600 1200 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 4800 1200 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 6000 1200 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 6000 2400 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 6000 3600 75 75 0 360 DrawEllipse gs col0 s gr
+% Ellipse
+n 2400 3600 75 75 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+% Ellipse
+n 3600 4800 75 75 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+% Ellipse
+n 3600 3600 75 75 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+% Ellipse
+n 3600 2400 75 75 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+% Ellipse
+n 4800 3600 75 75 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+% Polyline
+0 slj
+n 1200 1200 m 6000 1200 l 6000 6000 l 1200 6000 l
+ cp gs col0 s gr % Polyline
+n 3600 1200 m
+ 3600 6000 l gs col0 s gr % Polyline
+n 4800 1200 m
+ 4800 6000 l gs col0 s gr % Polyline
+n 1200 2400 m
+ 6000 2400 l gs col0 s gr % Polyline
+n 1200 3600 m
+ 6000 3600 l gs col0 s gr % Polyline
+n 1200 4800 m
+ 6000 4800 l gs col0 s gr % Polyline
+n 2400 1200 m
+ 2400 6000 l gs col0 s gr % Polyline
+45.000 slw
+n 2400 3600 m
+ 4800 3600 l gs col0 s gr % Polyline
+n 3600 2400 m
+ 3600 4800 l gs col0 s gr % Polyline
+7.500 slw
+gs  clippath
+6007 893 m 6007 907 l 5864 930 l 5864 870 l cp
+4793 907 m 4793 893 l 4936 870 l 4936 930 l cp
+eoclip
+n 4800 900 m
+ 6000 900 l gs col0 s gr gr
+% arrowhead
+n 4936 870 m 4816 900 l 4936 930 l 4936 870 l  cp gs 0.00 setgray ef gr  col0 s
+% arrowhead
+n 5864 930 m 5984 900 l 5864 870 l 5864 930 l  cp gs 0.00 setgray ef gr  col0 s
+% Polyline
+gs  clippath
+6307 2407 m 6293 2407 l 6270 2264 l 6330 2264 l cp
+6293 1193 m 6307 1193 l 6330 1336 l 6270 1336 l cp
+eoclip
+n 6300 1200 m
+ 6300 2400 l gs col0 s gr gr
+% arrowhead
+n 6330 1336 m 6300 1216 l 6270 1336 l 6330 1336 l  cp gs 0.00 setgray ef gr  col0 s
+% arrowhead
+n 6270 2264 m 6300 2384 l 6330 2264 l 6270 2264 l  cp gs 0.00 setgray ef gr  col0 s
+% Polyline
+gs  clippath
+6907 5993 m 6907 6007 l 6764 6030 l 6764 5970 l cp
+eoclip
+n 6300 6000 m
+ 6900 6000 l gs col0 s gr gr
+% arrowhead
+n 6764 6030 m 6884 6000 l 6764 5970 l 6764 6030 l  cp gs 0.00 setgray ef gr  col0 s
+% Polyline
+gs  clippath
+1193 293 m 1207 293 l 1230 436 l 1170 436 l cp
+eoclip
+n 1200 900 m
+ 1200 300 l gs col0 s gr gr
+% arrowhead
+n 1230 436 m 1200 316 l 1170 436 l 1230 436 l  cp gs 0.00 setgray ef gr  col0 s
+% Ellipse
+n 2400 4800 75 75 0 360 DrawEllipse gs col0 s gr
+% here ends figure;
+pagefooter
+showpage
+%%Trailer
+%EOF
