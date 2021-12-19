@@ -21,29 +21,33 @@ and use a specific method to solve it using a most suitable numerical method. Wi
 
 ### 1D PDE
 
-[1D Heat equation, Finite Difference, Direct Method](./1D%20Heat%20equation%2C%20Finite%20Difference%2C%20Direct%20Method.ipynb)
+[1D heat equation, finite difference, SciPy integration](./1D%20heat%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
 
-[1D Heat equation, Finite Difference, Euler method](./1D%20Heat%20equation%2C%20Finite%20Difference%2C%20Euler%20method.ipynb)
+[1D heat equation, finite difference, direct method](./1D%20heat%20equation%2C%20finite%20difference%2C%20direct%20method.ipynb)
 
-[1D Heat equation, Finite Difference, Neumann BC](./1D%20Heat%20equation%2C%20Finite%20Difference%2C%20Neumann%20BC.ipynb)
+[1D heat equation, finite difference, forward Euler](./1D%20heat%20equation%2C%20finite%20difference%2C%20forward%20Euler.ipynb)
 
-[1D Heat equation, Finite Difference, SciPy method](./1D%20Heat%20equation%2C%20Finite%20Difference%2C%20SciPy%20method.ipynb)
+[1D heat equation, finite difference, Neumann BC](./1D%20heat%20equation%2C%20finite%20difference%2C%20Neumann%20BC.ipynb)
 
-[1D Heat equation, Finite Difference, p1 MIT 2016](./1D%20Heat%20equation%2C%20Finite%20Difference%2C%20p1%20MIT%202016.ipynb)
+[1D heat equation, finite difference, p1 MIT 2016](./1D%20heat%20equation%2C%20finite%20difference%2C%20p1%20MIT%202016.ipynb)
 
+[1D convection equation, finite difference, SciPy integration](./1D%20convection%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
 
 ### 2D PDE
 
-[2D Poisson equation, Finite Difference](./2D%20Poisson%20equation%2C%20Finite%20Difference.ipynb)
+[2D Poisson equation, finite difference](./2D%20Poisson%20equation%2C%20finite%20difference.ipynb)
 
+[2D Poisson equation, finite difference, BC](./2D%20Poisson%20equation%2C%20finite%20difference%2C%20BC.ipynb)
 
 ### 1D ODE
 
 [Solving ODE with SciPy](./Solving%20ODE%20with%20SciPy.ipynb)
 
-
 ### Miscellaneous
+
+[Euler's formula and Euler's Identity](./Euler%27s%20formula%20and%20Euler%27s%20Identity.ipynb)
 
 [Taylor expansion](./Taylor%20expansion.ipynb)
 
 [Truncation error analysis with Taylor expansions](./Truncation%20error%20analysis%20with%20Taylor%20expansions.ipynb)
+

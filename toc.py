@@ -11,6 +11,7 @@ def main():
         filename_noext, ext = os.path.splitext(filename)
         if ext == ".ipynb":
             print(f"[{filename_noext}](./{urllib.parse.quote(file)})")
+            print()
 
 if __name__ == "__main__":
     main()
