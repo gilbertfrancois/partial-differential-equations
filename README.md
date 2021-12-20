@@ -33,6 +33,8 @@ and use a specific method to solve it using a most suitable numerical method. Wi
 
 [1D convection equation, finite difference, SciPy integration](./1D%20convection%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
 
+[1D wave equation, finite difference, SciPy integration](./1D%20wave%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
+
 ### 2D PDE
 
 [2D Poisson equation, finite difference](./2D%20Poisson%20equation%2C%20finite%20difference.ipynb)
