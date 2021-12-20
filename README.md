@@ -14,7 +14,9 @@ and use a specific method to solve it using a most suitable numerical method. Wi
 |    |                               |
 | ------------------------------------------------- | ----------------------------- |
 | ![](./assets/poisson2D-1.jpg)                     | ![](./assets/poisson2D-2.jpg) |
+
 _Figure 1: Example of numerical solution of a 2D Poisson PDE_ 
+
 
 ## Table of contents
 
