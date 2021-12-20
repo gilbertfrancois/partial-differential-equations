@@ -11,11 +11,10 @@ This repository is a collection of Jupyter Notebooks, containing methods for sol
 <img src="https://render.githubusercontent.com/render/math?math=%5Cfrac%7B%5Cpartial%20u%7D%7B%5Cpartial%20t%7D%20%2B%20U%20%5Ccdot%20%5Cnabla%20u%20%3D%20%5Ckappa%20%5Cnabla%5E2%20u%20%2B%20f">
 
 and use a specific method to solve it using a most suitable numerical method. With time, more and more notebooks will be added.
-| Example of numerical solution of a 2D Poisson PDE |                               |
+|    |                               |
 | ------------------------------------------------- | ----------------------------- |
 | ![](./assets/poisson2D-1.jpg)                     | ![](./assets/poisson2D-2.jpg) |
-
-
+_Figure 1: Example of numerical solution of a 2D Poisson PDE_ 
 
 ## Table of contents
 
