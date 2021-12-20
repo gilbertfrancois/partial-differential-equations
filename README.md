@@ -40,7 +40,7 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 
 [2D Poisson equation, finite difference, BC](./2D%20Poisson%20equation%2C%20finite%20difference%2C%20BC.ipynb)
 
-## 1D Finite volume
+### Finite volume
 
 [1D Burger's equation, finite volume](./1D%20Burger%27s%20equation%2C%20finite%20volume.ipynb)
 
