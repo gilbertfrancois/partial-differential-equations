@@ -18,7 +18,7 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 
 ## Table of contents
 
-### 1D PDE
+### Finite difference
 
 [1D heat equation, finite difference, SciPy integration](./1D%20heat%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
 
@@ -34,11 +34,13 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 
 [1D wave equation, finite difference, SciPy integration](./1D%20wave%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
 
-### 2D PDE
-
 [2D Poisson equation, finite difference](./2D%20Poisson%20equation%2C%20finite%20difference.ipynb)
 
 [2D Poisson equation, finite difference, BC](./2D%20Poisson%20equation%2C%20finite%20difference%2C%20BC.ipynb)
+
+## 1D Finite volume
+
+[1D Burger's equation, finite volume](./1D%20Burger%27s%20equation%2C%20finite%20volume.ipynb)
 
 ### 1D ODE
 
