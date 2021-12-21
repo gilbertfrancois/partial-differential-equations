@@ -42,9 +42,9 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 
 ### Finite volume
 
-[1D Burgers' equation, finite volume, central schema](./1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20central%20schema.ipynb)
+[1D Burgers' equation, finite volume, central scheme](./1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20central%20scheme.ipynb)
 
-[1D Burgers' equation, finite volume, upwind schema](./1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20upwind%20schema.ipynb)
+[1D Burgers' equation, finite volume, upwind scheme](./1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20upwind%20scheme.ipynb)
 
 
 ### 1D ODE
