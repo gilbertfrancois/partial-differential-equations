@@ -22,45 +22,45 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 
 ### Finite difference
 
-[1D heat equation, finite difference, SciPy integration](./1D%20heat%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
+[1D heat equation, finite difference, SciPy integration](./notebook/1D%20heat%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
 
-[1D heat equation, finite difference, direct method](./1D%20heat%20equation%2C%20finite%20difference%2C%20direct%20method.ipynb)
+[1D heat equation, finite difference, direct method](./notebook/1D%20heat%20equation%2C%20finite%20difference%2C%20direct%20method.ipynb)
 
-[1D heat equation, finite difference, forward Euler](./1D%20heat%20equation%2C%20finite%20difference%2C%20forward%20Euler.ipynb)
+[1D heat equation, finite difference, forward Euler](./notebook/1D%20heat%20equation%2C%20finite%20difference%2C%20forward%20Euler.ipynb)
 
-[1D heat equation, finite difference, Neumann BC](./1D%20heat%20equation%2C%20finite%20difference%2C%20Neumann%20BC.ipynb)
+[1D heat equation, finite difference, Neumann BC](./notebook/1D%20heat%20equation%2C%20finite%20difference%2C%20Neumann%20BC.ipynb)
 
-[1D heat equation, finite difference, p1 MIT 2016](./1D%20heat%20equation%2C%20finite%20difference%2C%20p1%20MIT%202016.ipynb)
+[1D heat equation, finite difference, p1 MIT 2016](./notebook/1D%20heat%20equation%2C%20finite%20difference%2C%20p1%20MIT%202016.ipynb)
 
-[1D convection equation, finite difference, SciPy integration](./1D%20convection%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
+[1D convection equation, finite difference, SciPy integration](./notebook/1D%20convection%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
 
-[1D wave equation, finite difference, SciPy integration](./1D%20wave%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
+[1D wave equation, finite difference, SciPy integration](./notebook/1D%20wave%20equation%2C%20finite%20difference%2C%20SciPy%20integration.ipynb)
 
-[2D Poisson equation, finite difference](./2D%20Poisson%20equation%2C%20finite%20difference.ipynb)
+[2D Poisson equation, finite difference](./notebook/2D%20Poisson%20equation%2C%20finite%20difference.ipynb)
 
-[2D Poisson equation, finite difference, BC](./2D%20Poisson%20equation%2C%20finite%20difference%2C%20BC.ipynb)
+[2D Poisson equation, finite difference, BC](./notebook/2D%20Poisson%20equation%2C%20finite%20difference%2C%20BC.ipynb)
 
 ### Finite volume
 
-[1D Burgers' equation, finite volume, central scheme](./1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20central%20scheme.ipynb)
+[1D Burgers' equation, finite volume, central scheme](./notebook/1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20central%20scheme.ipynb)
 
-[1D Burgers' equation, finite volume, upwind scheme](./1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20upwind%20scheme.ipynb)
+[1D Burgers' equation, finite volume, upwind scheme](./notebook/1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20upwind%20scheme.ipynb)
 
-[1D Burgers' equation, finite volume, reconstructed upwind scheme](./1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20reconstructed%20upwind%20scheme.ipynb)
+[1D Burgers' equation, finite volume, reconstructed upwind scheme](./notebook/1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20reconstructed%20upwind%20scheme.ipynb)
 
-[1D Burgers' equation, finite volume, Godunov scheme with limiter](./1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20Godunov%20scheme%20with%20limiter.ipynb)
+[1D Burgers' equation, finite volume, Godunov scheme with limiter](./notebook/1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20Godunov%20scheme%20with%20limiter.ipynb)
 
 
 
 ### 1D ODE
 
-[Solving ODE with SciPy](./Solving%20ODE%20with%20SciPy.ipynb)
+[Solving ODE with SciPy](./notebook/Solving%20ODE%20with%20SciPy.ipynb)
 
 ### Miscellaneous
 
-[Euler's formula and Euler's Identity](./Euler%27s%20formula%20and%20Euler%27s%20Identity.ipynb)
+[Euler's formula and Euler's Identity](./notebook/Euler%27s%20formula%20and%20Euler%27s%20Identity.ipynb)
 
-[Taylor expansion](./Taylor%20expansion.ipynb)
+[Taylor expansion](./notebook/Taylor%20expansion.ipynb)
 
-[Truncation error analysis with Taylor expansions](./Truncation%20error%20analysis%20with%20Taylor%20expansions.ipynb)
+[Truncation error analysis with Taylor expansions](./notebook/Truncation%20error%20analysis%20with%20Taylor%20expansions.ipynb)
 
