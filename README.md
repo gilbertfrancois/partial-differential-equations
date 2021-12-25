@@ -46,6 +46,11 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 
 [1D Burgers' equation, finite volume, upwind scheme](./1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20upwind%20scheme.ipynb)
 
+[1D Burgers' equation, finite volume, reconstructed upwind scheme](./1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20reconstructed%20upwind%20scheme.ipynb)
+
+[1D Burgers' equation, finite volume, Godunov scheme with limiter](./1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20Godunov%20scheme%20with%20limiter.ipynb)
+
+
 
 ### 1D ODE
 
