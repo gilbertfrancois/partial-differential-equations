@@ -75,5 +75,6 @@ Some Matlab scripts for verification and validation of the Python implementation
 
 [1D Burgers' equation, finite volume, Godunov scheme with limiter](./matlab/1d_burgers_eq_finite_volume_godunov_scheme_with_limiter)
 
-[2D Poisson equation](./matlab/2d_poisson_equation)
+[2D Poisson equation](./matlab/2d_poisson_equation) Solution with Matlab PDE Toolkit
 
+[2D Poisson equation BC](./matlab/2d_poisson_equation_bc) Solution with Matlab PDE Toolkit
