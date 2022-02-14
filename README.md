@@ -3,7 +3,6 @@
 _Gilbert François Duivesteijn_
 
 
-
 ## About
 
 This repository is a collection of Jupyter Notebooks, containing methods for solving different types of PDEs, using Numpy and SciPy. Most notebooks take a special case of the general convection-diffusion equation
@@ -40,6 +39,8 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 
 [2D Poisson equation, finite difference, BC](./notebook/2D%20Poisson%20equation%2C%20finite%20difference%2C%20BC.ipynb)
 
+
+
 ### Finite volume
 
 [1D Burgers' equation, finite volume, central scheme](./notebook/1D%20Burgers%27%20equation%2C%20finite%20volume%2C%20central%20scheme.ipynb)
@@ -56,6 +57,8 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 
 [Solving ODE with SciPy](./notebook/Solving%20ODE%20with%20SciPy.ipynb)
 
+
+
 ### Miscellaneous
 
 [Euler's formula and Euler's Identity](./notebook/Euler%27s%20formula%20and%20Euler%27s%20Identity.ipynb)
@@ -63,4 +66,14 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 [Taylor expansion](./notebook/Taylor%20expansion.ipynb)
 
 [Truncation error analysis with Taylor expansions](./notebook/Truncation%20error%20analysis%20with%20Taylor%20expansions.ipynb)
+
+
+
+### Matlab code
+
+Some Matlab scripts for verification and validation of the Python implementations:
+
+[1D Burgers' equation, finite volume, Godunov scheme with limiter](./matlab/1d_burgers_eq_finite_volume_godunov_scheme_with_limiter)
+
+[2D Poisson equation](./matlab/2d_poisson_equation)
 
