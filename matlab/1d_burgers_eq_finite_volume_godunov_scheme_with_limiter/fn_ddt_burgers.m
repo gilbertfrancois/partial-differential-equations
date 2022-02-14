@@ -1,4 +1,4 @@
-function [ dudt ] = ddt_burgers( t, u )
+function [ dudt ] = fn_ddt_burgers( t, u )
     n = length(u);
     dx = 1. / n;
     u_i_minus_one = [0; u(1:end-1)];
@@ -6,7 +6,6 @@ function [ dudt ] = ddt_burgers( t, u )
     u_i_plus_two = [u_i_plus_one(2:end); 0];
 
     % reconstruct u_i_plus_half_left
-
     r = (u_i_plus_one - u) ./ (u - u_i_minus_one);
     phi = limitor(r);
     u_i_plus_half_left = u + 0.5 * (u - u_i_minus_one).*phi;
@@ -16,7 +15,7 @@ function [ dudt ] = ddt_burgers( t, u )
     r = (u - u_i_plus_one) ./ (u_i_plus_one - u_i_plus_two);
     phi = limitor(r);
     u_i_plus_half_right = u_i_plus_one + 0.5 * (u_i_plus_one - u_i_plus_two).*phi;
-    f = Godunov(u_i_plus_half_left, u_i_plus_half_right);
+    f = fn_godunov(u_i_plus_half_left, u_i_plus_half_right);
 
     % apply Godunov
     f = [0; f];

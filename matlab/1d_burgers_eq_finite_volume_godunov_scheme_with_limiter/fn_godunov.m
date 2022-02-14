@@ -1,4 +1,4 @@
-function f = Godunov(ul, ur)
+function f = fn_godunov(ul, ur)
     fL = ul.^2 / 2;
     fR = ur.^2 / 2;
     fMin = 0;
