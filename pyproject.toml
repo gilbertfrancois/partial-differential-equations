@@ -3,17 +3,19 @@ name = "partial-differential-equations"
 version = "0.1.0"
 description = ""
 authors = ["Gilbert Francois Duivesteijn <info@gilbertfrancois.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+packages = [{include = "partial_differential_equations"}]
 
 [tool.poetry.dependencies]
-python = ">=3.8,<3.11"
-numpy = "^1.21.4"
-scipy = "^1.7.3"
-matplotlib = "^3.5.1"
-jupyterlab = "^3.2.5"
-ipywidgets = "^7.6.5"
+python = ">=3.9,<3.12"
+numpy = "^1.24.2"
+scipy = "^1.10.1"
+matplotlib = "^3.7.1"
+jupyterlab = "^3.6.3"
+ipywidgets = "^8.0.6"
 
-[tool.poetry.dev-dependencies]
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
