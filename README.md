@@ -59,6 +59,12 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 
 
 
+### Computational Fluid Dynamics, panel method
+
+[Potential flow](./notebook/Potential%20flow[.ipynb)
+
+
+
 ### Miscellaneous
 
 [Euler's formula and Euler's Identity](./notebook/Euler%27s%20formula%20and%20Euler%27s%20Identity.ipynb)
@@ -66,6 +72,8 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 [Taylor expansion](./notebook/Taylor%20expansion.ipynb)
 
 [Truncation error analysis with Taylor expansions](./notebook/Truncation%20error%20analysis%20with%20Taylor%20expansions.ipynb)
+
+[Fibonacci Numbers](./notebook/Fibonacci.ipynb)
 
 
 
