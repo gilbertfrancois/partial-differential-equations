@@ -63,7 +63,9 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 
 [Potential flow](./notebook/Potential%20flow.ipynb)
 
+[Potential flow around an airfoil  << Work in progress >>](./notebook/Potential%20flow%2C%20airfoil.ipynb)
 
+ 	
 
 ### Miscellaneous
 
