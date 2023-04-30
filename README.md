@@ -61,7 +61,7 @@ _Figure 1: Example of numerical solution of a 2D Poisson PDE_
 
 ### Computational Fluid Dynamics, panel method
 
-[Potential flow](./notebook/Potential%20flow[.ipynb)
+[Potential flow](./notebook/Potential%20flow.ipynb)
 
 
 
